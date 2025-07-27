@@ -31,3 +31,6 @@ Watch a recorded demo of the game interface and interactions:
 
 ## How to Run Locally
 1. Clone the repository:
+
+## Connect with me!
+https://www.linkedin.com/in/fiza-bajwa-302319260/
